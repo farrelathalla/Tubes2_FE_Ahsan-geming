@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧪 Algoritma BFS dan DFS pada Little Alchemy 2
+# Tugas Besar 2 Strategi Algoritma IF2211
 
-## Getting Started
+## 📌 Deskripsi  
+Repository ini berisi **frontend** untuk **Little Alchemy 2 Finder**, yang memungkinkan pengguna mencari elemen menggunakan tiga algoritma pencarian: **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, dan **Bidirectional Search (BDS)**. Frontend ini bertanggung jawab untuk menangani tampilan daari permintaan, memproses pencarian, dan mengembalikan jalur untuk pembuatan elemen.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🛠 Struktur Program
+Berikut adalah struktur program tugas kecil ini :
+```sh
+/Tubes2_FE_Ahsan-geming
+├── /components       # Komponen website
+├── /app              # Halaman utama
+├── /public           # Gambar dan font
+└── README.md         # Dokumentasi projek
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Getting Started 🌐
+Berikut instruksi instalasi dan penggunaan program
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Prerequisites
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Pastikan anda sudah memiliki:
+- **Node.js**: [Link to install](https://nodejs.org/)
+- **npm** or **yarn**: [Link to npm](https://www.npmjs.com/get-npm) | [Link to yarn](https://classic.yarnpkg.com/en/docs/install/)
 
-## Learn More
+### Installation
+1. **Clone repository ke dalam suatu folder**
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  https://github.com/farrelathalla/Tubes2_FE_Ahsan-geming.git
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Nyalakan Docker Desktop**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Pergi ke directory /Tubes2_FE_Ahsan-geming**
 
-## Deploy on Vercel
+```bash
+  cd Tubes2_FE_Ahsan-geming
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Compile program**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+  docker build -t nextjs-frontend .
+```
+
+4. **Jalankan program**
+
+```bash
+  docker run -p 3000:3000 nextjs-frontend
+```
+
+## **📌 Cara Penggunaan**
+
+1. **Jalankan program** melalui terminal atau IDE.
+2. **Nyalakan backend** terlebih dahulu, lalu **jalankan frontend**
+3. Pilih metode BFS/DFS/BDS serta Shortest/Multiple
+4. Pilih elemen yang ingin dicari
+5. Klik search
+
+## **✍️ Author**
+| Name                              | NIM        |
+|-----------------------------------|------------|
+| Ahsan Malik Al Farisi             | 13523074   |
+| Kefas Kurnia Jonathan             | 13523113   |
+| Farrel Athalla Putra              | 13523118   |
