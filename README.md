@@ -1,6 +1,9 @@
 # 🧪 Algoritma BFS dan DFS pada Little Alchemy 2
 # Tugas Besar 2 Strategi Algoritma IF2211
 
+![Desain tanpa judul (2)](https://github.com/user-attachments/assets/9083415c-4e4d-40bb-9dde-8ca4ebbc9138)
+
+
 ## 📌 Deskripsi  
 Repository ini berisi **frontend** untuk **Little Alchemy 2 Finder**, yang memungkinkan pengguna mencari elemen menggunakan tiga algoritma pencarian: **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, dan **Bidirectional Search (BDS)**. Frontend ini bertanggung jawab untuk menangani tampilan daari permintaan, memproses pencarian, dan mengembalikan jalur untuk pembuatan elemen.
 
