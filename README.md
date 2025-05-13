@@ -11,6 +11,7 @@ Repository ini berisi **frontend** untuk **Little Alchemy 2 Finder**, yang memun
 Berikut adalah struktur program tugas kecil ini :
 ```sh
 /Tubes2_FE_Ahsan-geming
+├── /doc              # Laporan
 ├── /components       # Komponen website
 ├── /app              # Halaman utama
 ├── /public           # Gambar dan font
