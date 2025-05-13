@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
+import { apiConfig } from "@/lib/api-config"; // Adjust import path as needed
 
 // Define props for the TreePage component
 interface TreePageProps {
@@ -880,7 +881,9 @@ const BidirectionalTreePage: React.FC<TreePageProps> = ({
     setStats(null); // Add this line to reset stats
 
     // Create WebSocket connection
-    const socket = new WebSocket("ws://localhost:8080/ws");
+    // const socket = new WebSocket("ws://localhost:8080/ws");
+    const wsUrl = apiConfig.getWebSocketUrl();
+    const socket = new WebSocket(`${wsUrl}/ws`);
     socketRef.current = socket;
 
     socket.onopen = () => {

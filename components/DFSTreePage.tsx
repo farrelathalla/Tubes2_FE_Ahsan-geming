@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
+import { apiConfig } from "@/lib/api-config"; // Adjust import path as needed
 
 // Define props for the DFS Tree Page component
 interface DFSTreePageProps {
@@ -582,7 +583,9 @@ const DFSTreePage: React.FC<DFSTreePageProps> = ({
     setCurrentResultIndex(0);
     setStats(null);
     // Create WebSocket connection
-    const socket = new WebSocket("ws://localhost:8080/ws");
+    // const socket = new WebSocket("ws://localhost:8080/ws");
+    const wsUrl = apiConfig.getWebSocketUrl();
+    const socket = new WebSocket(`${wsUrl}/ws`);
     socketRef.current = socket;
 
     socket.onopen = () => {
