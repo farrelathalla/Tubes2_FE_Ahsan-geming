@@ -634,7 +634,7 @@ const StandardTreePage: React.FC<TreePageProps> = ({
               Previous
             </button>
 
-            <span className="px-4 py-2 bg-gray-100">
+            <span className="px-4 py-2 bg-gray-100 text-black font-bold">
               Recipe {currentRecipeIndex + 1} of {multipleRecipes.length}
             </span>
 
@@ -726,8 +726,8 @@ const StandardTreePage: React.FC<TreePageProps> = ({
       </div> */}
 
       {/* Legend for basic elements */}
-      <div className="mt-4 p-4 bg-gray-50 rounded border border-gray-200">
-        <h3 className="text-lg font-medium mb-2">Legend</h3>
+      <div className="mt-4 p-4 bg-gray-50 rounded border border-gray-200 text-black font-bold">
+        <h3 className="text-lg mb-2">Legend</h3>
         <div className="flex flex-wrap gap-3">
           {Object.entries(elementColors).map(([element, color]) => (
             <div key={element} className="flex items-center">
