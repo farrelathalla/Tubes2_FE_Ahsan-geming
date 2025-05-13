@@ -1,0 +1,1093 @@
+{
+  "element": "Small",
+  "recipes": [
+    {
+      "element": "Philosophy",
+      "recipes": [
+        {
+          "element": "Human",
+          "recipes": [
+            {
+              "element": "Clay",
+              "recipes": [
+                {
+                  "element": "Mud",
+                  "recipes": [
+                    {
+                      "element": "Water",
+                      "recipes": []
+                    },
+                    {
+                      "element": "Earth",
+                      "recipes": []
+                    }
+                  ]
+                },
+                {
+                  "element": "Sand",
+                  "recipes": [
+                    {
+                      "element": "Stone",
+                      "recipes": [
+                        {
+                          "element": "Earth",
+                          "recipes": []
+                        },
+                        {
+                          "element": "Pressure",
+                          "recipes": [
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Air",
+                      "recipes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "element": "Life",
+              "recipes": [
+                {
+                  "element": "Primordial soup",
+                  "recipes": [
+                    {
+                      "element": "Lava",
+                      "recipes": [
+                        {
+                          "element": "Earth",
+                          "recipes": []
+                        },
+                        {
+                          "element": "Fire",
+                          "recipes": []
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Sea",
+                      "recipes": [
+                        {
+                          "element": "Lake",
+                          "recipes": [
+                            {
+                              "element": "Pond",
+                              "recipes": [
+                                {
+                                  "element": "Puddle",
+                                  "recipes": [
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Puddle",
+                                  "recipes": [
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Lake",
+                          "recipes": [
+                            {
+                              "element": "Pond",
+                              "recipes": [
+                                {
+                                  "element": "Puddle",
+                                  "recipes": [
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Puddle",
+                                  "recipes": [
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Water",
+                                      "recipes": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "element": "Time",
+                  "recipes": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "element": "Idea",
+          "recipes": [
+            {
+              "element": "Human",
+              "recipes": [
+                {
+                  "element": "Clay",
+                  "recipes": [
+                    {
+                      "element": "Mud",
+                      "recipes": [
+                        {
+                          "element": "Water",
+                          "recipes": []
+                        },
+                        {
+                          "element": "Earth",
+                          "recipes": []
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Sand",
+                      "recipes": [
+                        {
+                          "element": "Stone",
+                          "recipes": [
+                            {
+                              "element": "Earth",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Pressure",
+                              "recipes": [
+                                {
+                                  "element": "Air",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Air",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Air",
+                          "recipes": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "element": "Life",
+                  "recipes": [
+                    {
+                      "element": "Primordial soup",
+                      "recipes": [
+                        {
+                          "element": "Lava",
+                          "recipes": [
+                            {
+                              "element": "Earth",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Fire",
+                              "recipes": []
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Sea",
+                          "recipes": [
+                            {
+                              "element": "Lake",
+                              "recipes": [
+                                {
+                                  "element": "Pond",
+                                  "recipes": [
+                                    {
+                                      "element": "Puddle",
+                                      "recipes": [
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Puddle",
+                                      "recipes": [
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Lake",
+                              "recipes": [
+                                {
+                                  "element": "Pond",
+                                  "recipes": [
+                                    {
+                                      "element": "Puddle",
+                                      "recipes": [
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Puddle",
+                                      "recipes": [
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Water",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Time",
+                      "recipes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "element": "Light bulb",
+              "recipes": [
+                {
+                  "element": "Glass",
+                  "recipes": [
+                    {
+                      "element": "Sand",
+                      "recipes": [
+                        {
+                          "element": "Stone",
+                          "recipes": [
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Lava",
+                              "recipes": [
+                                {
+                                  "element": "Earth",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Fire",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Air",
+                          "recipes": []
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Fire",
+                      "recipes": []
+                    }
+                  ]
+                },
+                {
+                  "element": "Electricity",
+                  "recipes": [
+                    {
+                      "element": "Solar cell",
+                      "recipes": [
+                        {
+                          "element": "Sun",
+                          "recipes": [
+                            {
+                              "element": "Planet",
+                              "recipes": [
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Fire",
+                              "recipes": []
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Energy",
+                          "recipes": [
+                            {
+                              "element": "Fire",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Fire",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Sun",
+                      "recipes": [
+                        {
+                          "element": "Planet",
+                          "recipes": [
+                            {
+                              "element": "Continent",
+                              "recipes": [
+                                {
+                                  "element": "Land",
+                                  "recipes": [
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Land",
+                                  "recipes": [
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Continent",
+                              "recipes": [
+                                {
+                                  "element": "Land",
+                                  "recipes": [
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Land",
+                                  "recipes": [
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    },
+                                    {
+                                      "element": "Earth",
+                                      "recipes": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Fire",
+                          "recipes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "element": "Bacteria",
+      "recipes": [
+        {
+          "element": "Life",
+          "recipes": [
+            {
+              "element": "Primordial soup",
+              "recipes": [
+                {
+                  "element": "Lava",
+                  "recipes": [
+                    {
+                      "element": "Earth",
+                      "recipes": []
+                    },
+                    {
+                      "element": "Fire",
+                      "recipes": []
+                    }
+                  ]
+                },
+                {
+                  "element": "Sea",
+                  "recipes": [
+                    {
+                      "element": "Lake",
+                      "recipes": [
+                        {
+                          "element": "Pond",
+                          "recipes": [
+                            {
+                              "element": "Puddle",
+                              "recipes": [
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Puddle",
+                              "recipes": [
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Water",
+                          "recipes": []
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Lake",
+                      "recipes": [
+                        {
+                          "element": "Pond",
+                          "recipes": [
+                            {
+                              "element": "Puddle",
+                              "recipes": [
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Puddle",
+                              "recipes": [
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Water",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Water",
+                          "recipes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "element": "Electricity",
+              "recipes": [
+                {
+                  "element": "Metal",
+                  "recipes": [
+                    {
+                      "element": "Stone",
+                      "recipes": [
+                        {
+                          "element": "Earth",
+                          "recipes": []
+                        },
+                        {
+                          "element": "Pressure",
+                          "recipes": [
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Fire",
+                      "recipes": []
+                    }
+                  ]
+                },
+                {
+                  "element": "Lightning",
+                  "recipes": [
+                    {
+                      "element": "Electricity",
+                      "recipes": [
+                        {
+                          "element": "Solar cell",
+                          "recipes": [
+                            {
+                              "element": "Sun",
+                              "recipes": [
+                                {
+                                  "element": "Planet",
+                                  "recipes": [
+                                    {
+                                      "element": "Continent",
+                                      "recipes": [
+                                        {
+                                          "element": "Land",
+                                          "recipes": [
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            },
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "element": "Land",
+                                          "recipes": [
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            },
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Continent",
+                                      "recipes": [
+                                        {
+                                          "element": "Land",
+                                          "recipes": [
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            },
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "element": "Land",
+                                          "recipes": [
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            },
+                                            {
+                                              "element": "Earth",
+                                              "recipes": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Fire",
+                                  "recipes": []
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Energy",
+                              "recipes": [
+                                {
+                                  "element": "Fire",
+                                  "recipes": []
+                                },
+                                {
+                                  "element": "Fire",
+                                  "recipes": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Sun",
+                          "recipes": [
+                            {
+                              "element": "Planet",
+                              "recipes": [
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "element": "Fire",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Cloud",
+                      "recipes": [
+                        {
+                          "element": "Atmosphere",
+                          "recipes": [
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Planet",
+                              "recipes": [
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "element": "Continent",
+                                  "recipes": [
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "element": "Land",
+                                      "recipes": [
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        },
+                                        {
+                                          "element": "Earth",
+                                          "recipes": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Mist",
+                          "recipes": [
+                            {
+                              "element": "Air",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "element": "Primordial soup",
+          "recipes": [
+            {
+              "element": "Lava",
+              "recipes": [
+                {
+                  "element": "Earth",
+                  "recipes": []
+                },
+                {
+                  "element": "Fire",
+                  "recipes": []
+                }
+              ]
+            },
+            {
+              "element": "Sea",
+              "recipes": [
+                {
+                  "element": "Lake",
+                  "recipes": [
+                    {
+                      "element": "Pond",
+                      "recipes": [
+                        {
+                          "element": "Puddle",
+                          "recipes": [
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Puddle",
+                          "recipes": [
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Water",
+                      "recipes": []
+                    }
+                  ]
+                },
+                {
+                  "element": "Lake",
+                  "recipes": [
+                    {
+                      "element": "Pond",
+                      "recipes": [
+                        {
+                          "element": "Puddle",
+                          "recipes": [
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        },
+                        {
+                          "element": "Puddle",
+                          "recipes": [
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            },
+                            {
+                              "element": "Water",
+                              "recipes": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "element": "Water",
+                      "recipes": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
