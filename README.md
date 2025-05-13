@@ -41,13 +41,15 @@ Pastikan anda sudah memiliki:
   cd Tubes2_FE_Ahsan-geming
 ```
 
-4. **Compile program**
+4. **Buatlah .env.local dan .env (jika deploy) sesuai dengan .env.example**
+
+5. **Compile program**
 
 ```bash
   docker build -t nextjs-frontend .
 ```
 
-4. **Jalankan program**
+6. **Jalankan program**
 
 ```bash
   docker run -p 3000:3000 nextjs-frontend
