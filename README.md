@@ -25,15 +25,16 @@ Berikut instruksi instalasi dan penggunaan program
 Pastikan anda sudah memiliki:
 - **Node.js**: [Link to install](https://nodejs.org/)
 - **npm** or **yarn**: [Link to npm](https://www.npmjs.com/get-npm) | [Link to yarn](https://classic.yarnpkg.com/en/docs/install/)
+- **Docker Desktop**
 
 ### Installation
 1. **Clone repository ke dalam suatu folder**
 
 ```bash
-  https://github.com/farrelathalla/Tubes2_FE_Ahsan-geming.git
+  git clone https://github.com/farrelathalla/Tubes2_FE_Ahsan-geming.git
 ```
 
-2. **Nyalakan Docker Desktop**
+2. **Nyalakan Docker Desktop (jika menggunakan Docker)**
 
 3. **Pergi ke directory /Tubes2_FE_Ahsan-geming**
 
@@ -49,10 +50,21 @@ Pastikan anda sudah memiliki:
   docker build -t nextjs-frontend .
 ```
 
+atau tanpa Docker
+```bash
+npm install
+```
+
 6. **Jalankan program**
 
 ```bash
   docker run -p 3000:3000 nextjs-frontend
+```
+
+atau tanpa Docker
+
+```bash
+npm run dev
 ```
 
 ## **📌 Cara Penggunaan**
